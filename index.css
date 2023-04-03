@@ -1,0 +1,57 @@
+body{
+
+    margin: 8;
+    color: grey;
+    text-size-adjust: 1000;
+}
+
+
+header{
+    
+    color: brown;
+    text-align: center;
+}
+
+/* style the top nav*/
+.topnav{
+
+    overflow: hidden;
+    background-color: lightblue;
+}
+
+
+
+.topnav a{
+
+    float: left;
+    color: black;
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: navy;
+}
+
+.topnav a:hover{
+
+    background-color: aqua;
+    color: blue;
+}
+
+
+/* style the middle colum*/
+
+.column.middle {
+    padding: 10px;
+    height: 70vh;
+    width: 70vw;
+
+}
+
+
+
+.footer{
+    background-color: lightblue;
+    padding: 10px;
+    text-align: center;
+    
+}
